@@ -1,0 +1,13 @@
+{
+  "schedule": {
+    "Value":  {
+      "items": [
+        {
+          "content": "http://www.github.com",
+          "end": "Fri Sep 08 2017 10:16:24 GMT-0400",
+          "start": "Fri Sep 08 2017 22:16:24 GMT-0400",
+        }
+      ]
+    }
+  }
+}
